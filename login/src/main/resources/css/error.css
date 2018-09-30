@@ -1,0 +1,24 @@
+#topPane, #bottomPane {
+    -fx-background-color:radial-gradient(radius 100%, #FFDA91, #FFEDF0, #E9A8FF);
+    -fx-text-fill: #AB16FF;
+    -fx-alignment: center;
+    -fx-font-family: "KaiTi";
+    -fx-font-style: normal;
+    -fx-font-weight: bold;
+
+}
+#topPane {
+    -fx-font-size: 30px;
+}
+
+#bottomPane {
+    -fx-font-size: 20px;
+}
+
+#btnClose {
+    -fx-background-image: url('/image/icon/close.png');
+    -fx-background-size: 100% 100%;
+    /*-fx-background-size: cover;*/
+    -fx-background-repeat: no-repeat;
+    -fx-cursor: hand;
+}

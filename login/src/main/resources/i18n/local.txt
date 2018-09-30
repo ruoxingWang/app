@@ -1,0 +1,796 @@
+------------------------------
+country = AE
+language = 阿拉伯文
+displayName = 阿拉伯文 (阿拉伯联合酋长国)
+ar_AE
+------------------------------
+country = JO
+language = 阿拉伯文
+displayName = 阿拉伯文 (约旦)
+ar_JO
+------------------------------
+country = SY
+language = 阿拉伯文
+displayName = 阿拉伯文 (叙利亚)
+ar_SY
+------------------------------
+country = HR
+language = 克罗地亚文
+displayName = 克罗地亚文 (克罗地亚)
+hr_HR
+------------------------------
+country = BE
+language = 法文
+displayName = 法文 (比利时)
+fr_BE
+------------------------------
+country = PA
+language = 西班牙文
+displayName = 西班牙文 (巴拿马)
+es_PA
+------------------------------
+country = MT
+language = 马耳他文
+displayName = 马耳他文 (马耳他)
+mt_MT
+------------------------------
+country = VE
+language = 西班牙文
+displayName = 西班牙文 (委内瑞拉)
+es_VE
+------------------------------
+country = 
+language = 保加利亚文
+displayName = 保加利亚文
+bg
+------------------------------
+country = TW
+language = 中文
+displayName = 中文 (台湾地区)
+zh_TW
+------------------------------
+country = 
+language = 意大利文
+displayName = 意大利文
+it
+------------------------------
+country = 
+language = 朝鲜文
+displayName = 朝鲜文
+ko
+------------------------------
+country = 
+language = 乌克兰文
+displayName = 乌克兰文
+uk
+------------------------------
+country = 
+language = 拉托维亚文(列托)
+displayName = 拉托维亚文(列托)
+lv
+------------------------------
+country = DK
+language = 丹麦文
+displayName = 丹麦文 (丹麦)
+da_DK
+------------------------------
+country = PR
+language = 西班牙文
+displayName = 西班牙文 (波多黎哥)
+es_PR
+------------------------------
+country = VN
+language = 越南文
+displayName = 越南文 (越南)
+vi_VN
+------------------------------
+country = US
+language = 英文
+displayName = 英文 (美国)
+en_US
+------------------------------
+country = ME
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (黑山)
+sr_ME
+------------------------------
+country = SE
+language = 瑞典文
+displayName = 瑞典文 (瑞典)
+sv_SE
+------------------------------
+country = BO
+language = 西班牙文
+displayName = 西班牙文 (玻利维亚)
+es_BO
+------------------------------
+country = SG
+language = 英文
+displayName = 英文 (新加坡)
+en_SG
+------------------------------
+country = BH
+language = 阿拉伯文
+displayName = 阿拉伯文 (巴林)
+ar_BH
+------------------------------
+country = 
+language = 葡萄牙文
+displayName = 葡萄牙文
+pt
+------------------------------
+country = SA
+language = 阿拉伯文
+displayName = 阿拉伯文 (沙特阿拉伯)
+ar_SA
+------------------------------
+country = 
+language = 斯洛伐克文
+displayName = 斯洛伐克文
+sk
+------------------------------
+country = YE
+language = 阿拉伯文
+displayName = 阿拉伯文 (也门)
+ar_YE
+------------------------------
+country = IN
+language = 印地文
+displayName = 印地文 (印度)
+hi_IN
+------------------------------
+country = 
+language = 爱尔兰文
+displayName = 爱尔兰文
+ga
+------------------------------
+country = MT
+language = 英文
+displayName = 英文 (马耳他)
+en_MT
+------------------------------
+country = FI
+language = 芬兰文
+displayName = 芬兰文 (芬兰)
+fi_FI
+------------------------------
+country = 
+language = 爱沙尼亚文
+displayName = 爱沙尼亚文
+et
+------------------------------
+country = 
+language = 瑞典文
+displayName = 瑞典文
+sv
+------------------------------
+country = 
+language = 捷克文
+displayName = 捷克文
+cs
+------------------------------
+country = BA
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (拉丁文,波斯尼亚和黑山共和国)
+sr_BA_#Latn
+------------------------------
+country = 
+language = 希腊文
+displayName = 希腊文
+el
+------------------------------
+country = UA
+language = 乌克兰文
+displayName = 乌克兰文 (乌克兰)
+uk_UA
+------------------------------
+country = 
+language = 匈牙利文
+displayName = 匈牙利文
+hu
+------------------------------
+country = CH
+language = 法文
+displayName = 法文 (瑞士)
+fr_CH
+------------------------------
+country = 
+language = 印度尼西亚文
+displayName = 印度尼西亚文
+in
+------------------------------
+country = AR
+language = 西班牙文
+displayName = 西班牙文 (阿根廷)
+es_AR
+------------------------------
+country = EG
+language = 阿拉伯文
+displayName = 阿拉伯文 (埃及)
+ar_EG
+------------------------------
+country = JP
+language = 日文
+displayName = 日文 (日本,JP)
+ja_JP_JP_#u-ca-japanese
+------------------------------
+country = SV
+language = 西班牙文
+displayName = 西班牙文 (萨尔瓦多)
+es_SV
+------------------------------
+country = BR
+language = 葡萄牙文
+displayName = 葡萄牙文 (巴西)
+pt_BR
+------------------------------
+country = 
+language = 白俄罗斯文
+displayName = 白俄罗斯文
+be
+------------------------------
+country = IS
+language = 冰岛文
+displayName = 冰岛文 (冰岛)
+is_IS
+------------------------------
+country = CZ
+language = 捷克文
+displayName = 捷克文 (捷克共和国)
+cs_CZ
+------------------------------
+country = 
+language = 西班牙文
+displayName = 西班牙文
+es
+------------------------------
+country = PL
+language = 波兰文
+displayName = 波兰文 (波兰)
+pl_PL
+------------------------------
+country = 
+language = 土耳其文
+displayName = 土耳其文
+tr
+------------------------------
+country = ES
+language = 加泰罗尼亚文
+displayName = 加泰罗尼亚文 (西班牙)
+ca_ES
+------------------------------
+country = CS
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (塞尔维亚及黑山)
+sr_CS
+------------------------------
+country = MY
+language = 马来文
+displayName = 马来文 (马来西亚)
+ms_MY
+------------------------------
+country = 
+language = 克罗地亚文
+displayName = 克罗地亚文
+hr
+------------------------------
+country = 
+language = 立陶宛文
+displayName = 立陶宛文
+lt
+------------------------------
+country = ES
+language = 西班牙文
+displayName = 西班牙文 (西班牙)
+es_ES
+------------------------------
+country = CO
+language = 西班牙文
+displayName = 西班牙文 (哥伦比亚)
+es_CO
+------------------------------
+country = BG
+language = 保加利亚文
+displayName = 保加利亚文 (保加利亚)
+bg_BG
+------------------------------
+country = 
+language = 阿尔巴尼亚文
+displayName = 阿尔巴尼亚文
+sq
+------------------------------
+country = 
+language = 法文
+displayName = 法文
+fr
+------------------------------
+country = 
+language = 日文
+displayName = 日文
+ja
+------------------------------
+country = BA
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (波斯尼亚和黑山共和国)
+sr_BA
+------------------------------
+country = 
+language = 冰岛文
+displayName = 冰岛文
+is
+------------------------------
+country = PY
+language = 西班牙文
+displayName = 西班牙文 (巴拉圭)
+es_PY
+------------------------------
+country = 
+language = 德文
+displayName = 德文
+de
+------------------------------
+country = EC
+language = 西班牙文
+displayName = 西班牙文 (厄瓜多尔)
+es_EC
+------------------------------
+country = US
+language = 西班牙文
+displayName = 西班牙文 (美国)
+es_US
+------------------------------
+country = SD
+language = 阿拉伯文
+displayName = 阿拉伯文 (苏丹)
+ar_SD
+------------------------------
+country = 
+language = 英文
+displayName = 英文
+en
+------------------------------
+country = RO
+language = 罗马尼亚文
+displayName = 罗马尼亚文 (罗马尼亚)
+ro_RO
+------------------------------
+country = PH
+language = 英文
+displayName = 英文 (菲律宾)
+en_PH
+------------------------------
+country = 
+language = 加泰罗尼亚文
+displayName = 加泰罗尼亚文
+ca
+------------------------------
+country = TN
+language = 阿拉伯文
+displayName = 阿拉伯文 (突尼斯)
+ar_TN
+------------------------------
+country = ME
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (拉丁文,黑山)
+sr_ME_#Latn
+------------------------------
+country = GT
+language = 西班牙文
+displayName = 西班牙文 (危地马拉)
+es_GT
+------------------------------
+country = 
+language = 斯洛文尼亚文
+displayName = 斯洛文尼亚文
+sl
+------------------------------
+country = KR
+language = 朝鲜文
+displayName = 朝鲜文 (韩国)
+ko_KR
+------------------------------
+country = CY
+language = 希腊文
+displayName = 希腊文 (塞浦路斯)
+el_CY
+------------------------------
+country = MX
+language = 西班牙文
+displayName = 西班牙文 (墨西哥)
+es_MX
+------------------------------
+country = RU
+language = 俄文
+displayName = 俄文 (俄罗斯)
+ru_RU
+------------------------------
+country = HN
+language = 西班牙文
+displayName = 西班牙文 (洪都拉斯)
+es_HN
+------------------------------
+country = HK
+language = 中文
+displayName = 中文 (香港)
+zh_HK
+------------------------------
+country = NO
+language = 挪威文
+displayName = 挪威文 (挪威,Nynorsk)
+no_NO_NY
+------------------------------
+country = HU
+language = 匈牙利文
+displayName = 匈牙利文 (匈牙利)
+hu_HU
+------------------------------
+country = TH
+language = 泰文
+displayName = 泰文 (泰国)
+th_TH
+------------------------------
+country = IQ
+language = 阿拉伯文
+displayName = 阿拉伯文 (伊拉克)
+ar_IQ
+------------------------------
+country = CL
+language = 西班牙文
+displayName = 西班牙文 (智利)
+es_CL
+------------------------------
+country = 
+language = 芬兰文
+displayName = 芬兰文
+fi
+------------------------------
+country = MA
+language = 阿拉伯文
+displayName = 阿拉伯文 (摩洛哥)
+ar_MA
+------------------------------
+country = IE
+language = 爱尔兰文
+displayName = 爱尔兰文 (爱尔兰)
+ga_IE
+------------------------------
+country = 
+language = 马其顿文
+displayName = 马其顿文
+mk
+------------------------------
+country = TR
+language = 土耳其文
+displayName = 土耳其文 (土耳其)
+tr_TR
+------------------------------
+country = EE
+language = 爱沙尼亚文
+displayName = 爱沙尼亚文 (爱沙尼亚)
+et_EE
+------------------------------
+country = QA
+language = 阿拉伯文
+displayName = 阿拉伯文 (卡塔尔)
+ar_QA
+------------------------------
+country = 
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (拉丁文)
+sr__#Latn
+------------------------------
+country = PT
+language = 葡萄牙文
+displayName = 葡萄牙文 (葡萄牙)
+pt_PT
+------------------------------
+country = LU
+language = 法文
+displayName = 法文 (卢森堡)
+fr_LU
+------------------------------
+country = OM
+language = 阿拉伯文
+displayName = 阿拉伯文 (阿曼)
+ar_OM
+------------------------------
+country = 
+language = 泰文
+displayName = 泰文
+th
+------------------------------
+country = AL
+language = 阿尔巴尼亚文
+displayName = 阿尔巴尼亚文 (阿尔巴尼亚)
+sq_AL
+------------------------------
+country = DO
+language = 西班牙文
+displayName = 西班牙文 (多米尼加共和国)
+es_DO
+------------------------------
+country = CU
+language = 西班牙文
+displayName = 西班牙文 (古巴)
+es_CU
+------------------------------
+country = 
+language = 阿拉伯文
+displayName = 阿拉伯文
+ar
+------------------------------
+country = 
+language = 俄文
+displayName = 俄文
+ru
+------------------------------
+country = NZ
+language = 英文
+displayName = 英文 (新西兰)
+en_NZ
+------------------------------
+country = RS
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (塞尔维亚)
+sr_RS
+------------------------------
+country = CH
+language = 德文
+displayName = 德文 (瑞士)
+de_CH
+------------------------------
+country = UY
+language = 西班牙文
+displayName = 西班牙文 (乌拉圭)
+es_UY
+------------------------------
+country = 
+language = 马来文
+displayName = 马来文
+ms
+------------------------------
+country = GR
+language = 希腊文
+displayName = 希腊文 (希腊)
+el_GR
+------------------------------
+country = IL
+language = 希伯来文
+displayName = 希伯来文 (以色列)
+iw_IL
+------------------------------
+country = ZA
+language = 英文
+displayName = 英文 (南非)
+en_ZA
+------------------------------
+country = TH
+language = 泰文
+displayName = 泰文 (泰国,TH)
+th_TH_TH_#u-nu-thai
+------------------------------
+country = 
+language = 印地文
+displayName = 印地文
+hi
+------------------------------
+country = FR
+language = 法文
+displayName = 法文 (法国)
+fr_FR
+------------------------------
+country = AT
+language = 德文
+displayName = 德文 (奥地利)
+de_AT
+------------------------------
+country = 
+language = 荷兰文
+displayName = 荷兰文
+nl
+------------------------------
+country = NO
+language = 挪威文
+displayName = 挪威文 (挪威)
+no_NO
+------------------------------
+country = AU
+language = 英文
+displayName = 英文 (澳大利亚)
+en_AU
+------------------------------
+country = 
+language = 越南文
+displayName = 越南文
+vi
+------------------------------
+country = NL
+language = 荷兰文
+displayName = 荷兰文 (荷兰)
+nl_NL
+------------------------------
+country = CA
+language = 法文
+displayName = 法文 (加拿大)
+fr_CA
+------------------------------
+country = LV
+language = 拉托维亚文(列托)
+displayName = 拉托维亚文(列托) (拉脱维亚)
+lv_LV
+------------------------------
+country = LU
+language = 德文
+displayName = 德文 (卢森堡)
+de_LU
+------------------------------
+country = CR
+language = 西班牙文
+displayName = 西班牙文 (哥斯达黎加)
+es_CR
+------------------------------
+country = KW
+language = 阿拉伯文
+displayName = 阿拉伯文 (科威特)
+ar_KW
+------------------------------
+country = 
+language = 塞尔维亚文
+displayName = 塞尔维亚文
+sr
+------------------------------
+country = LY
+language = 阿拉伯文
+displayName = 阿拉伯文 (利比亚)
+ar_LY
+------------------------------
+country = 
+language = 马耳他文
+displayName = 马耳他文
+mt
+------------------------------
+country = CH
+language = 意大利文
+displayName = 意大利文 (瑞士)
+it_CH
+------------------------------
+country = 
+language = 丹麦文
+displayName = 丹麦文
+da
+------------------------------
+country = DE
+language = 德文
+displayName = 德文 (德国)
+de_DE
+------------------------------
+country = DZ
+language = 阿拉伯文
+displayName = 阿拉伯文 (阿尔及利亚)
+ar_DZ
+------------------------------
+country = SK
+language = 斯洛伐克文
+displayName = 斯洛伐克文 (斯洛伐克)
+sk_SK
+------------------------------
+country = LT
+language = 立陶宛文
+displayName = 立陶宛文 (立陶宛)
+lt_LT
+------------------------------
+country = IT
+language = 意大利文
+displayName = 意大利文 (意大利)
+it_IT
+------------------------------
+country = IE
+language = 英文
+displayName = 英文 (爱尔兰)
+en_IE
+------------------------------
+country = SG
+language = 中文
+displayName = 中文 (新加坡)
+zh_SG
+------------------------------
+country = 
+language = 罗马尼亚文
+displayName = 罗马尼亚文
+ro
+------------------------------
+country = CA
+language = 英文
+displayName = 英文 (加拿大)
+en_CA
+------------------------------
+country = BE
+language = 荷兰文
+displayName = 荷兰文 (比利时)
+nl_BE
+------------------------------
+country = 
+language = 挪威文
+displayName = 挪威文
+no
+------------------------------
+country = 
+language = 波兰文
+displayName = 波兰文
+pl
+------------------------------
+country = CN
+language = 中文
+displayName = 中文 (中国)
+zh_CN
+------------------------------
+country = JP
+language = 日文
+displayName = 日文 (日本)
+ja_JP
+------------------------------
+country = GR
+language = 德文
+displayName = 德文 (希腊)
+de_GR
+------------------------------
+country = RS
+language = 塞尔维亚文
+displayName = 塞尔维亚文 (拉丁文,塞尔维亚)
+sr_RS_#Latn
+------------------------------
+country = 
+language = 希伯来文
+displayName = 希伯来文
+iw
+------------------------------
+country = IN
+language = 英文
+displayName = 英文 (印度)
+en_IN
+------------------------------
+country = LB
+language = 阿拉伯文
+displayName = 阿拉伯文 (黎巴嫩)
+ar_LB
+------------------------------
+country = NI
+language = 西班牙文
+displayName = 西班牙文 (尼加拉瓜)
+es_NI
+------------------------------
+country = 
+language = 中文
+displayName = 中文
+zh
+------------------------------
+country = MK
+language = 马其顿文
+displayName = 马其顿文 (马其顿王国)
+mk_MK
+------------------------------
+country = BY
+language = 白俄罗斯文
+displayName = 白俄罗斯文 (白俄罗斯)
+be_BY
+------------------------------
+country = SI
+language = 斯洛文尼亚文
+displayName = 斯洛文尼亚文 (斯洛文尼亚)
+sl_SI
+------------------------------
+country = PE
+language = 西班牙文
+displayName = 西班牙文 (秘鲁)
+es_PE
+------------------------------
+country = ID
+language = 印度尼西亚文
+displayName = 印度尼西亚文 (印度尼西亚)
+in_ID
+------------------------------
+country = GB
+language = 英文
+displayName = 英文 (英国)
+en_GB
+------------------------------
